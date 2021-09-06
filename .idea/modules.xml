@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap/baitap.iml" filepath="$PROJECT_DIR$/baitap/baitap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dahinh/dahinh.iml" filepath="$PROJECT_DIR$/dahinh/dahinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epkieudoituong/epkieudoituong.iml" filepath="$PROJECT_DIR$/epkieudoituong/epkieudoituong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerClass/innerClass.iml" filepath="$PROJECT_DIR$/innerClass/innerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instanceof/instanceof.iml" filepath="$PROJECT_DIR$/instanceof/instanceof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithread/multithread.iml" filepath="$PROJECT_DIR$/multithread/multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ontap.iml" filepath="$PROJECT_DIR$/ontap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testltrmang/testltrmang.iml" filepath="$PROJECT_DIR$/testltrmang/testltrmang.iml" />
+    </modules>
+  </component>
+</project>
