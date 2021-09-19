@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitap/baitap.iml" filepath="$PROJECT_DIR$/baitap/baitap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarytree/binarytree.iml" filepath="$PROJECT_DIR$/binarytree/binarytree.iml" />
       <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/dahinh/dahinh.iml" filepath="$PROJECT_DIR$/dahinh/dahinh.iml" />
